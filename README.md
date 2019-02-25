@@ -1,2 +1,2 @@
 # OrgCam
-<<Details are coming soon>>
+Details are coming soon
